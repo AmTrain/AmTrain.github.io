@@ -314,9 +314,9 @@ a.btn-custom {
 body.section-switching .animation-block {
  position:absolute;
  left:0;
- height:0%;
+ height:100%;
  width:100%;
- background:#e0e0e0;
+ background:url(../img/switch.jpg);
  z-index:199
 }
 body.section-switching.down .animation-block {
@@ -478,7 +478,7 @@ body.section-switching.up .animation-block {
  background:#f0f0f0
 }
 .about-block .section-header {
- margin-bottom:80px
+ margin-bottom:40px
 }
 .about-text>p {
  font-size:14px;
@@ -512,7 +512,7 @@ body.section-switching.up .animation-block {
  color:rgba(0,0,0,.4)
 }
 .services-block .section-header {
- margin-bottom:80px
+ margin-bottom:40px
 }
 .service {
  padding:35px;
@@ -579,7 +579,7 @@ body.section-switching.up .animation-block {
  margin:0
 }
 .skills-block .section-header {
- margin-bottom:80px
+ margin-bottom:40px
 }
 .skill {
  position:relative;
@@ -627,7 +627,7 @@ body.section-switching.up .animation-block {
  transition:background 2.5s cubic-bezier(.785,.135,.15,.86)
 }
 .pricing-block .section-header {
- margin-bottom:80px
+ margin-bottom:40px
 }
 .p-table {
  padding:40px;
@@ -716,7 +716,7 @@ body.section-switching.up .animation-block {
  color:rgba(0,0,0,.4)
 }
 .timeline-block .section-header {
- margin-bottom:80px
+ margin-bottom:40px
 }
 .timeline {
  margin:0;
@@ -736,7 +736,7 @@ body.section-switching.up .animation-block {
 }
 .timeline>li {
  padding-left:40px;
- margin-bottom:40px
+ margin-bottom:20px
 }
 .timeline>li:last-of-type {
  margin-bottom:0
@@ -784,13 +784,13 @@ body.section-switching.up .animation-block {
  color:rgba(0,0,0,.4)
 }
 .testimonials-block .section-header {
- margin-bottom:80px
+ margin-bottom:40px
 }
 .testimonial {
  position:relative
 }
 .testimonial>.icon {
- font-size:64px;
+ font-size:40px;
  color:#303f9f;
  opacity:.6
 }
@@ -816,7 +816,7 @@ body.section-switching.up .animation-block {
 }
 .testimonials-slider .owl-controls {
  font-size:0;
- margin-top:60px
+ margin-top:20px
 }
 .testimonials-slider .owl-controls .owl-dot {
  display:inline-block;
@@ -838,7 +838,7 @@ body.section-switching.up .animation-block {
  opacity:1
 }
 .portfolio-block .section-header {
- margin-bottom:80px
+ margin-bottom:40px
 }
 .portfolio-filters,
 .portfolio-items {
@@ -1077,7 +1077,7 @@ body.section-switching.up .animation-block {
  font-weight:500
 }
 .contact-block .section-header {
- margin-bottom:80px
+ margin-bottom:40px
 }
 .contact-form>.form-group:last-of-type {
  margin:0
